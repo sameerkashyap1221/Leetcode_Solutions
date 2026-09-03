@@ -9,6 +9,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0001-two-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
@@ -27,6 +28,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
