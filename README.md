@@ -13,12 +13,14 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -45,4 +47,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
