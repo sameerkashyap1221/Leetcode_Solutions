@@ -6,6 +6,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Array
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -40,4 +41,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
