@@ -18,6 +18,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0009-palindrome-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -51,6 +52,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
