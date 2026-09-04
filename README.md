@@ -50,6 +50,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0021-merge-two-sorted-lists](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
