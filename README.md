@@ -8,6 +8,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0001-two-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -99,6 +100,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 ## Tree
 |  |
 | ------- |
