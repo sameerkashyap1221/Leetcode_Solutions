@@ -47,11 +47,13 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
 ## Greedy
