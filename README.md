@@ -45,6 +45,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -111,15 +112,18 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
