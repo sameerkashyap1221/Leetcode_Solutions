@@ -25,6 +25,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0013-roman-to-integer](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -78,6 +79,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0072-edit-distance](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -134,4 +136,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
