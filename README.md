@@ -81,6 +81,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0115-distinct-subsequences](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -112,6 +113,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0072-edit-distance](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0940-distinct-subsequences-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Tree
 |  |
 | ------- |
