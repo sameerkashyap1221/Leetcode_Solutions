@@ -13,6 +13,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,6 +41,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -70,6 +72,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0021-merge-two-sorted-lists](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
