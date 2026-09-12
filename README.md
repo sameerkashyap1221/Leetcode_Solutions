@@ -12,6 +12,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -77,6 +78,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
+| [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0344-reverse-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -101,6 +104,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
