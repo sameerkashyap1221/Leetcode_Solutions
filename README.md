@@ -9,6 +9,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0001-two-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
@@ -97,6 +98,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
@@ -166,6 +168,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 ## Pigeonhole Principle
 |  |
@@ -179,4 +182,16 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
