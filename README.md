@@ -31,6 +31,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3870-count-commas-in-range](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -194,4 +195,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
