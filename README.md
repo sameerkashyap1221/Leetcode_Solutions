@@ -33,6 +33,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0172-factorial-trailing-zeroes](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3870-count-commas-in-range](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -122,6 +123,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0115-distinct-subsequences](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Tree
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
