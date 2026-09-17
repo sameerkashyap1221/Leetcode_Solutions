@@ -141,6 +141,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -155,6 +156,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
@@ -166,6 +168,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
