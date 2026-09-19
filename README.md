@@ -12,6 +12,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0136-single-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
@@ -123,6 +124,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -214,4 +216,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
