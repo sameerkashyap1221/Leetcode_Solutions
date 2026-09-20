@@ -11,6 +11,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
@@ -32,6 +33,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0013-roman-to-integer](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -47,6 +49,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -54,6 +57,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -168,6 +172,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -178,6 +183,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
