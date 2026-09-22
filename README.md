@@ -17,6 +17,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
+| [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -185,6 +186,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,4 +228,12 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
