@@ -18,6 +18,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -66,10 +67,12 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
@@ -192,6 +195,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -236,4 +240,20 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Graph Theory
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
