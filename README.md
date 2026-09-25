@@ -34,6 +34,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
@@ -141,6 +142,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -262,5 +264,6 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
