@@ -20,6 +20,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -54,6 +55,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0012-integer-to-roman](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -97,6 +99,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## String
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Bubble Sort
 |  |
 | ------- |
