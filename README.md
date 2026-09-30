@@ -160,6 +160,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -169,6 +170,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0098-validate-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -177,6 +179,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -189,6 +192,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
