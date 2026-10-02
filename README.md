@@ -7,6 +7,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -290,4 +292,8 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
