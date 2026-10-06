@@ -113,6 +113,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0115-distinct-subsequences](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
@@ -135,6 +136,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
+| [0856-score-of-parentheses](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -302,5 +304,6 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
