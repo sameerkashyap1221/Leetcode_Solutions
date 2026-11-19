@@ -22,6 +22,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -103,6 +104,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0942-di-string-match](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of optimized LeetCode solutions covering Data Structures, Algorithm
 | [0268-missing-number](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sameerkashyap1221/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
